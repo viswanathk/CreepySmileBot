@@ -1,0 +1,4 @@
+cron:
+- description: daily summary job
+  url: /CreepySmileBot
+  schedule: every 1 mins
